@@ -2,6 +2,8 @@ Agua
 Leche 
 Pepinillos
 Soja
+lechuga 
+tomate
 
 
 
